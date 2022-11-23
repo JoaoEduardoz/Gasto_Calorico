@@ -1,4 +1,4 @@
-# 🖩 Calculadora de Gasto Calórico
+# 🖩 Calculadora Gasto Calórico
 
 Calcula o Gasto Calórico diário de uma pessoa baseado no seu peso, idade, e sexo (masculino e feminino).
 Programa feito com estudos e pesquisas
