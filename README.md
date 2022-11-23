@@ -13,7 +13,7 @@ Feito para calcular o gasto calórico de pessoas de acordo com o _gênero, idade
  🔵 ``Visual Studio Code``
 
 ### Objetivo
-Colocar em Prática o que foi aprendido durante o estudo:
+Colocar em Prática o que foi aprendido durante o estudo: #
 `Variáveis`
 `Operadores Relacionais`
 `Operadores Lógicos (**and** e **or**)`
