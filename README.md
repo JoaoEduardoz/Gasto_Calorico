@@ -16,7 +16,7 @@ Feito para calcular o gasto calórico de pessoas de acordo com o _gênero, idade
 Colocar em Prática o que foi aprendido durante o estudo:                                                                                                                
 `Variáveis`
 `Operadores Relacionais`
-`Operadores Lógicos (**and** e **or**)`
+`Operadores Lógicos`
 `Entrada de Dados`
 `Condições`
 `Estruturas Aninhadas`
