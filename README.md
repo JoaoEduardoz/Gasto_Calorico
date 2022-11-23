@@ -1,6 +1,4 @@
-_# 🖩 Calculadora Gasto Calórico_
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/112273551/203464162-f6482b1c-3c3a-4de2-8846-adb7122c460e.png" width="200" height="200">
+<h1 align="center">  Cálculo Gasto Calórico </h1>
 
-Calcula o Gasto Calórico diário de uma pessoa baseado no seu peso, idade, e sexo (masculino e feminino).
-Programa feito com estudos e pesquisas
-
-Projeto feito com apenas 1 mês de estudos na Linguagem Python, foi um desafio faze-lo no começo, depois de algumas pesquisas para entender melhor os comandos para acrescentar no programa e
+  
