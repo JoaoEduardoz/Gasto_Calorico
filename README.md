@@ -16,12 +16,12 @@ Feito para calcular o gasto calórico de pessoas de acordo com o _gênero, idade
 # Objetivo
 ### O projeto tem como objetivo fazer  o **_Calculo Calórico_** de pessoas como:
 
-- Bebês entre **_0 e 3_ anos** de idade;
-- Crianças entre **_3 e 10_ anos** de idade;
-- Jovens entre **_10 e 18_ anos** de idade;
-- Adultos entre **_18 e 30_ anos** de idade;
-- Adultos1 entre **_30 e 60_ anos** de idade;
-- Idosos com mais de **_60_ anos** de idade;
+- [👶🏻](https://emojiterra.com/pt/bebe-pele-clara/) Bebês entre **_0 e 3_ anos** de idade;
+- [🧒🏻](https://emojiterra.com/pt/crianca-pele-clara/) Crianças entre **_3 e 10_ anos** de idade;
+- [🧒🏼](https://emojiterra.com/pt/crianca-pele-clara-media/) Jovens entre **_10 e 18_ anos** de idade;
+- [👱🏻‍♀️](https://emojiterra.com/pt/loira-pele-clara/) Adultos entre **_18 e 30_ anos** de idade;
+- [👱🏿‍♀️](https://emojiterra.com/pt/loira-pele-escura/) Adultos1 entre **_30 e 60_ anos** de idade;
+- [👴🏻](https://emojiterra.com/pt/homem-idoso-pele-clara/) Idosos com mais de **_60_ anos** de idade;
 
 # 🔨 **Funcionalidades do projeto**
 
@@ -41,11 +41,17 @@ Feito para calcular o gasto calórico de pessoas de acordo com o _gênero, idade
 
 ![gasto aproximado](https://user-images.githubusercontent.com/112273551/203474499-82336d24-ee6f-4242-a287-9112e1908ada.png)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### VISUALIZAR CÓDIGO DO PROJETO 👇🏼
+### _✅ Programa em Funcionamento_
 
-[Código Gasto Calórico](https://github.com/JoaoEduardoz/Gasto_Calorico/blob/main/Gasto%20Calorico.py)
- 
+![GIF PROGRAMA FUNCIONANDO](https://user-images.githubusercontent.com/112273551/203479702-c67376ac-2803-47d0-8a6e-4114d2dc8587.gif)
+
+> _**Simples é melhor que complexo. - Tim Peters.**_
 
 
+# Curso em andamento ⚠️
 
+- [ ] `Python 3 do Básico Ao Avançado _Udemy_`
+
+(https://www.udemy.com/course/python-3-do-zero-ao-avancado)
